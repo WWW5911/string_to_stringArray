@@ -13,8 +13,8 @@ public class String_to_StringArray {
         while( (str = bf.readLine()) != null ){
             StringTokenizer st = new StringTokenizer(str);
             st.nextToken();
-            if(count++ == 0)fw.append(st.nextToken());
-            else fw.append(", " +"\n"+ st.nextToken());
+            if(count++ == 0)fw.append('"'+ st.nextToken()+'"');
+            else fw.append(", " +"\n"+'"'+st.nextToken()+'"');
         }
         fw.append(" }");
         fw.close();
