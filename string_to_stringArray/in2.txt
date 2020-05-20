@@ -1,0 +1,161 @@
+BR24 南港展覽館 Taipei Nangang Exhibition Center AB-Kreuz.svg Taipei Metro Line BL.svg 板南線 高架 台
+BR23 南港軟體園區 Nangang Software Park 
+BR22 東湖 Donghu AB-Kreuz.svg  █ 民生汐止線 內湖區
+BR21 葫洲 Huzhou 
+BR20 大湖公園 Dahu Park
+BR19 內湖 Neihu
+BR18 文德
+BR17 港墘 Gangqian
+BR16 西湖
+BR15 劍南路
+BR14 大直
+BR13 松山機場
+BR12 中山國中 Zhongshan Junior High School AB-Kreuz.svg  █ 民生汐止線：北大臺北校區站（站外轉乘） 高架 中山區
+BR11 南京復興 Nanjing Fuxing AB-Kreuz.svg Taipei Metro Line G.svg 松山新店線
+BR10 忠孝復興 Zhongxiao Fuxing AB-Kreuz.svg Taipei Metro Line BL.svg 板南線 大安區
+BR09 大安 Daan AB-Kreuz.svg Taipei Metro Line R.svg 淡水信義線
+BR08 科技大樓 Technology Building 
+BR07 六張犁 Liuzhangli 大安區
+BR06 麟光 Linguang
+BR05 辛亥 Xinhai 文山區
+BR04 萬芳醫院 Wanfang Hospital
+BR03 萬芳社區 Wanfang Community
+BR02 木柵 Muzha
+BR01 動物園 
+R22A 新北投 Xinbeitou  高架 臺
+R27 紅樹林 Hongshulin AB-Kreuz.svg New Taipei Metro Line V.png 淡海輕軌綠山線 地面
+R26 竹圍 Zhuwei 
+R25 關渡 Guandu 臺
+R24 忠義 Zhongyi
+R23 復興崗 Fuxinggang
+R22 北投 Beitou AB-Kreuz.svg Taipei Metro Line Xinbeitou Branch.svg 新北投支線 高架 
+R21 奇岩 Qiyan 
+R20 唭哩岸 Qilian
+R19 石牌
+R18 明德 Mingde
+R17 芝山 Zhishan AB-Kreuz.svg  █ 社子東西線 士林區
+R16 士林 Shilin AB-Kreuz.svg Taipei Metro Line Y.png 環狀線
+R15 劍潭 Jiantan 
+R14 圓山 Yuanshan 中山區
+R13 民權西路 Minquan West Road AB-Kreuz.svg Taipei Metro Line O.svg 中和新蘆線 地下
+R12 雙連
+R11 中山 Zhongshan AB-Kreuz.svg Taipei Metro Line G.svg 松山新店線
+R10 臺北車站 Taipei Main Station AB-Kreuz.svg 台灣高鐵 台灣高鐵
+R09 台大醫院 National Taiwan University Hospital 
+R08 中正紀念堂  
+R07 東門 Dongmen AB-Kreuz.svg Taipei Metro Line O.svg 中和新蘆線
+R06 大安森林公園 Daan Park 
+R05 大安 Daan AB-Kreuz.svg Taipei Metro Line BR.svg 文湖線
+R04 信義安和 Xinyi Anhe 
+R03 臺北101/世貿 Taipei 101/World Trade Center 信義區
+R02 象山 Xiangshan AB-Kreuz.svg Taipei Metro Line Y.png 環狀線（東環段）（站外轉乘）
+R01 廣慈/奉天宮 Guangci/Fengtian Temple 
+G19 松山 Songshan AB-Kreuz.svg 台灣鐵路 臺灣鐵路縱貫線
+G18 南京三民 Nanjing Sanmin 
+G17 臺北小巨蛋
+G16 南京復興 Nanjing Fuxing AB-Kreuz.svg Taipei Metro Line BR.svg 文湖線
+G15 松江南京 Songjiang Nanjing AB-Kreuz.svg Taipei Metro Line O.svg 中和新蘆線
+G14 中山 Zhongshan AB-Kreuz.svg Taipei Metro Line R.svg 淡水信義線
+G13 北門
+G12 西門 Ximen AB-Kreuz.svg Taipei Metro Line BL.svg 板南線
+G11 小南門 Xiaonanmen 
+G10 中正紀念堂
+G09 古亭 Guting AB-Kreuz.svg Taipei Metro Line O.svg 中和新蘆線 中正區
+G08 台電大樓 Taipower Building 
+G07 公館
+G06 萬隆 Wanlong 文山區
+G05 景美 Jingmei
+G04 大坪林 Dapinglin AB-Kreuz.svg Taipei Metro Line Y.png 環狀線 新 新店區
+G03 七張 Qizhang AB-Kreuz.svg Taipei Metro Line Xiaobitan Branch.svg 小碧潭支線
+G02 新店區公所 Xindian District Office 
+G01 新店
+O54 蘆洲
+O53 三民高中
+O52 徐匯中學 Saint Ignatius High School AB-Kreuz.svg Taipei Metro Line Y.png 環狀線
+O51 三和國中 Sanhe Junior High School  三重區
+O50 三重國小 Sanchong Elementary School
+O21 迴龍
+O20 丹鳳 Danfeng 
+O19 輔大 Fu Jen University
+O18 新莊
+O17 頭前庄
+O16 先嗇宮 Xianse Temple  三重區
+O15 三重 Sanchong AB-Kreuz.svg 桃園捷運Taoyuan Metro Line Airport.svg 機場線（站外轉乘）
+O14 菜寮
+O13 臺北橋 Taipei Bridge
+O12 大橋頭
+O11 民權西路 Minquan West Road AB-Kreuz.svg Taipei Metro Line R.svg 淡水信義線
+O10 中山國小
+O09 行天宮 Xingtian Temple AB-Kreuz.svg  █ 民生汐止線
+O08 松江南京 Songjiang Nanjing AB-Kreuz.svg Taipei Metro Line G.svg 松山新店線
+O07 忠孝新生
+O06 東門 Dongmen AB-Kreuz.svg Taipei Metro Line R.svg 淡水信義線
+O04 頂溪 Dingxi  新北市 永和區
+O03 永安市場 Yongan Market
+O02 景安 Jingan AB-Kreuz.svg Taipei Metro Line Y.png 環狀線
+O01 南勢角 Nanshijiao
+BL23 南港展覽館 Taipei Nangang Exhibition Center AB-Kreuz.svg Taipei Metro Line BR.svg 文湖線 地下 台
+BL22 南港 Nangang AB-Kreuz.svg 台灣高鐵 台灣高鐵
+BL21 昆陽 Kunyang 
+BL20 後山埤
+BL19 永春 Yongchun AB-Kreuz.svg Taipei Metro Line Y.png 環狀線（東環段）
+BL18 市政府 Taipei City Hall 
+BL17 國父紀念館 Sun Yat-Sen Memorial Hall 
+BL16 忠孝敦化 Zhongxiao Dunhua  大安區
+BL15 忠孝復興 Zhongxiao Fuxing AB-Kreuz.svg Taipei Metro Line BR.svg 文湖線
+BL14 忠孝新生
+BL13 善導寺
+BL12 臺北車站 Taipei Main Station AB-Kreuz.svg 台灣高鐵 台灣高鐵
+BL11 西門 Ximen AB-Kreuz.svg Taipei Metro Line G.svg 松山新店線
+BL10 龍山寺
+BL09 江子翠 Jiangzicui  新
+BL08 新埔 Xinpu AB-Kreuz.svg Taipei Metro Line Y.png 環狀線：新埔民生（站外轉乘）
+BL07 板橋 Banqiao AB-Kreuz.svg 台灣高鐵 台灣高鐵
+BL06 府中
+BL05 亞東醫院 Far Eastern Hospital
+BL04 海山 Haishan 土城區
+BL03 土城 Tucheng AB-Kreuz.svg Taipei Metro Line Wanda Zhonghe Shulin.svg 萬大-中和-樹林線
+BL02 永寧 Yongning AB-Kreuz.svg Taipei Metro Line Wanda Zhonghe Shulin.svg 萬大-中和-樹林線：埤塘（站外轉乘）
+BL01 頂埔 Dingpu
+Y01 動物園 Taipei Zoo AB-Kreuz.svg Taipei Metro Line BR.svg 文湖線
+Y02 政大 National Chengchi University 
+Y03 文山區公所
+Y04 馬明潭 Mamingtan
+Y05 溝子口
+Y06 寶斗厝
+Y07 大坪林 Dapinglin AB-Kreuz.svg Taipei Metro Line G.svg 松山新店線
+Y08 十四張
+Y09 秀朗橋 Xiulang Bridge  中和區
+Y10 景平 Jingping
+Y11 景安 Jingan AB-Kreuz.svg Taipei Metro Line O.svg 中和新蘆線
+Y12 中和 Zhonghe AB-Kreuz.svg Taipei Metro Line Wanda Zhonghe Shulin.svg 萬大-中和-樹林線
+Y13 橋和 Qiaohe 
+Y14 中原 Zhongyuan
+Y15 板新 Banxin 板橋區
+Y16 板橋 Banqiao AB-Kreuz.svg 台灣高鐵 台灣高鐵
+Y17 新埔民生 Xinpu Minsheng AB-Kreuz.svg Taipei Metro Line BL.svg 板南線：新埔站（站外轉乘）
+Y18 頭前庄
+Y19 幸福 Xingfu
+Y20 新北產業園區 New Taipei Industrial Park AB-Kreuz.svg 桃園捷運 Taoyuan Metro Line Airport.svg 機場線
+Y21 工商展覽中心 New Taipei City Exhibition Hall  地下 五股區
+Y22 更寮
+Y23 中路 Zhonglu 蘆洲區
+Y24 徐匯中學 Saint Ignatius High School AB-Kreuz.svg Taipei Metro Line O.svg 中和新蘆線
+Y25 分子尾 Fenziwei AB-Kreuz.svg  █ 五股泰山輕軌 三重區
+Y26 重陽橋 Chongyang Bridge 
+Y27 社子 Shezi AB-Kreuz.svg  █ 社子南北線 臺
+Y28 福德洋 Fudeyang 
+Y29 士林 Shilin AB-Kreuz.svg Taipei Metro Line R.svg 淡水信義線
+Y30 林子口 Linzikou 
+Y31 故宮博物院[3] National Palace Museum
+Y32 劍南路
+Y33 下塔悠 Xiatayou 
+Y34 洲子 Zhouzi 內湖區
+Y35 內湖科技園區 Neihu Technology Park
+Y36 瑞光公園 Ruiguang Park
+Y37 粉寮 Fenliao
+Y38 舊里族 Jiulizu AB-Kreuz.svg  █ 民生汐止線
+Y39 松山 Songshan AB-Kreuz.svg 台灣鐵路 臺灣鐵路縱貫線
+Y40 永春 Yongchun AB-Kreuz.svg Taipei Metro Line BL.svg 板南線
+Y41 象山 Xiangshan AB-Kreuz.svg Taipei Metro Line R.svg 淡水信義線（站外轉乘）
+Y42 三張犁 Sanzhangli
